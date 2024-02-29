@@ -6,4 +6,4 @@ def average(a, b):
 
 number1 = float(input("Enter a decimal number: "))
 number2 = float(input("Enter another decimal number: "))
-print(average(number1, number2))
+print(average(number1, number2)) 
